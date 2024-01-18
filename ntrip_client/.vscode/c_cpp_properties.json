@@ -1,0 +1,34 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/jiwon/robot_ws/install/rtcm_msgs/include/**",
+        "/home/jiwon/robot_ws/install/ublox_gps/include/**",
+        "/home/jiwon/robot_ws/install/ublox_msgs/include/**",
+        "/home/jiwon/robot_ws/install/ublox_serialization/include/**",
+        "/home/jiwon/robot_ws/install/tracer_msgs/include/**",
+        "/home/jiwon/robot_ws/install/realsense2_camera/include/**",
+        "/home/jiwon/robot_ws/install/realsense2_camera_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/jiwon/robot_ws/src/honam_delivery_robot/ublox/ublox_gps/include/**",
+        "/home/jiwon/robot_ws/src/honam_delivery_robot/ublox/ublox_msgs/include/**",
+        "/home/jiwon/robot_ws/src/honam_delivery_robot/ublox/ublox_serialization/include/**",
+        "/home/jiwon/robot_ws/src/realsense-ros/realsense2_camera/include/**",
+        "/home/jiwon/robot_ws/src/rplidar_ros/include/**",
+        "/home/jiwon/robot_ws/src/tracer_ros2/tracer_base/include/**",
+        "/home/jiwon/robot_ws/src/ugv_sdk/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,42 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/jiwon/robot_ws/install/rtcm_msgs/local/lib/python3.10/dist-packages",
+        "/home/jiwon/robot_ws/install/ublox_msgs/local/lib/python3.10/dist-packages",
+        "/home/jiwon/robot_ws/install/tracer_msgs/local/lib/python3.10/dist-packages",
+        "/home/jiwon/robot_ws/install/realsense2_camera_msgs/local/lib/python3.10/dist-packages",
+        "/home/jiwon/robot_ws/build/ntrip_client/src",
+        "/home/jiwon/robot_ws/install/ntrip_client/lib/python3.10/site-packages",
+        "/home/jiwon/robot_ws/build/honam_delivery_utility",
+        "/home/jiwon/robot_ws/install/honam_delivery_utility/lib/python3.10/site-packages",
+        "/home/jiwon/robot_ws/build/honam_delivery_gui",
+        "/home/jiwon/robot_ws/install/honam_delivery_gui/lib/python3.10/site-packages",
+        "/home/jiwon/robot_ws/build/honam_delivery_bringup",
+        "/home/jiwon/robot_ws/install/honam_delivery_bringup/lib/python3.10/site-packages",
+        "/home/jiwon/robot_ws/build/honam_delivery_application",
+        "/home/jiwon/robot_ws/install/honam_delivery_application/lib/python3.10/site-packages",
+        "/home/jiwon/robot_ws/build/growth_restore",
+        "/home/jiwon/robot_ws/install/growth_restore/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/jiwon/robot_ws/install/rtcm_msgs/local/lib/python3.10/dist-packages",
+        "/home/jiwon/robot_ws/install/ublox_msgs/local/lib/python3.10/dist-packages",
+        "/home/jiwon/robot_ws/install/tracer_msgs/local/lib/python3.10/dist-packages",
+        "/home/jiwon/robot_ws/install/realsense2_camera_msgs/local/lib/python3.10/dist-packages",
+        "/home/jiwon/robot_ws/build/ntrip_client/src",
+        "/home/jiwon/robot_ws/install/ntrip_client/lib/python3.10/site-packages",
+        "/home/jiwon/robot_ws/build/honam_delivery_utility",
+        "/home/jiwon/robot_ws/install/honam_delivery_utility/lib/python3.10/site-packages",
+        "/home/jiwon/robot_ws/build/honam_delivery_gui",
+        "/home/jiwon/robot_ws/install/honam_delivery_gui/lib/python3.10/site-packages",
+        "/home/jiwon/robot_ws/build/honam_delivery_bringup",
+        "/home/jiwon/robot_ws/install/honam_delivery_bringup/lib/python3.10/site-packages",
+        "/home/jiwon/robot_ws/build/honam_delivery_application",
+        "/home/jiwon/robot_ws/install/honam_delivery_application/lib/python3.10/site-packages",
+        "/home/jiwon/robot_ws/build/growth_restore",
+        "/home/jiwon/robot_ws/install/growth_restore/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
