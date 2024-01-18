@@ -8,13 +8,13 @@ from launch.actions import SetEnvironmentVariable
 def generate_launch_description():
       return LaunchDescription([
           # Declare arguments with default values
-          DeclareLaunchArgument('host',                  default_value='www.gnssdata.or.kr'),
+          DeclareLaunchArgument('host',                  default_value='gnss.eseoul.go.kr'),
           DeclareLaunchArgument('port',                  default_value='2101'),
-          DeclareLaunchArgument('mountpoint',            default_value='KWNJ-RTCM31'),
+          DeclareLaunchArgument('mountpoint',            default_value='YONS-RTCM32-M5'),
           DeclareLaunchArgument('ntrip_version',         default_value='None'),
           DeclareLaunchArgument('authenticate',          default_value='True'),
-          DeclareLaunchArgument('username',              default_value='02stu4@gmail.com'),
-          DeclareLaunchArgument('password',              default_value='gnss'),
+          DeclareLaunchArgument('username',              default_value='seoul'),
+          DeclareLaunchArgument('password',              default_value='seoul'),
           DeclareLaunchArgument('ssl',                   default_value='False'),
           DeclareLaunchArgument('cert',                  default_value='None'),
           DeclareLaunchArgument('key',                   default_value='None'),
